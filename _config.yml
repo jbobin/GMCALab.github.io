@@ -20,7 +20,7 @@
 
 title: "GMCALab - a sparse matrix factorisation framework"
 email: "TBD"
-description: "TBD"
+description: "GMCALab is a python toolbox that introduces numerical methods to tackle sparse matrix factorization problems."
 
 domain: "gmcalab.github.io"       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: "https://gmcalab.github.io"  # the base hostname and protocol for your site, e.g. http://example.com
